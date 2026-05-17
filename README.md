@@ -3,7 +3,7 @@
 
 ## 🌍 Live Demo
 
- [Open Live Site] (https://kakabayewrejepberdi083-hue.github.io/litcollective-landing-page/)
+ 🔗[Open Live Site] (https://kakabayewrejepberdi083-hue.github.io/litcollective-landing-page/)
 
 ---
 
